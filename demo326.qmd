@@ -5,9 +5,7 @@ format:
     embed-resources: false
     grid:
       body-width: 1400px
-    resources:
-      - shinylive-sw.js
-filters: 
+filters:
   - shinylive
 ---
 
