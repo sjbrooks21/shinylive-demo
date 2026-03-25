@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/1413840/ef00386509b24004955771d05eceb9fd
+bundleId: https://api.rpubs.com/api/v1/document/1413840/ef00386509b24004955771d05eceb9fd
+url: http://rpubs.com/sjbrooks/1413840
+version: 1
